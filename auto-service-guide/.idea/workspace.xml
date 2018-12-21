@@ -2,25 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49219c52-29d8-4c99-9be6-900487e87ddc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Jumbotron.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/Jumbotron.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/Navbar.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/Navbar.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/pages/Authentification.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/pages/Review.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/pages/Service.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/pages/Service1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Service1.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/pages/Service2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Service2.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/pages/Service3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Service3.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Autentificare.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Review.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Jumbotron.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Service1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Service1.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Service2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Service2.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Service3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Service3.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Review.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Service1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Service2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Service3.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/db/firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/firebase.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
@@ -216,16 +224,15 @@
       <option name="presentableId" value="Default" />
       <updated>1545164264625</updated>
       <workItem from="1545164265887" duration="1191000" />
-      <workItem from="1545390593733" duration="18522000" />
+      <workItem from="1545390593733" duration="18845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19713000" />
+    <option name="totallyTimeSpent" value="20036000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24244833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
