@@ -1,9 +1,10 @@
 import * as firebase from 'firebase';
+import app from 'firebase/app';
+
 const settings = {timestampsInSnapshots: true};
 
-
   // Initialize Firebase
-  var config = {
+  let config = {
     apiKey: "AIzaSyCaCrGRpt0oA1CzPI0pIyfeISARMH_wUaE",
     authDomain: "roxana-sdb.firebaseapp.com",
     databaseURL: "https://roxana-sdb.firebaseio.com",
@@ -11,6 +12,11 @@ const settings = {timestampsInSnapshots: true};
     storageBucket: "roxana-sdb.appspot.com",
     messagingSenderId: "596229268017"
   };
-firebase.initializeApp(config);
+
+class Firebase {
+  constructor() {
+    app.initializeApp(config);
+  }
+}
 firebase.firestore().settings(settings);
-export default firebase;
+export default Firebase;
